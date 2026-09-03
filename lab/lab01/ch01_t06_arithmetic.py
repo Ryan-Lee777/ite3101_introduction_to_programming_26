@@ -1,2 +1,2 @@
 product=2*2
-remainder
+remainder=1
