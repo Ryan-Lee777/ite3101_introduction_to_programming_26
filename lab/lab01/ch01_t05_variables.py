@@ -1,1 +1,1 @@
-today_date =4/9/26
+today_date =2026-09-04
