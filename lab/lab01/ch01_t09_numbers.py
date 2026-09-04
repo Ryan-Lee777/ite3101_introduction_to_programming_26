@@ -5,4 +5,4 @@ PRICE_PER_CUCUMBER = 3.25
 #总价：
 TOTAL_COST = CUCUMBERS * PRICE_PER_CUCUMBER
 #显示：
-print(total_cost)
+print(TOTAL_COST)
