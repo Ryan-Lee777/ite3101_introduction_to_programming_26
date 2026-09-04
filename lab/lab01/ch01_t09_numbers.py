@@ -4,3 +4,5 @@ cucumbers = 1
 price_per_cucumber = 3.25
 #总价：
 total_cost = cucumbers*price_per_cucumber
+
+print=
