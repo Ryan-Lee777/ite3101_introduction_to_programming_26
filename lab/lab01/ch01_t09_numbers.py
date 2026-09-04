@@ -3,6 +3,6 @@ cucumbers = 1
 #青瓜单价：
 price_per_cucumber = 3.25
 #总价：
-TOTAL_COST = CUCUMBERS * PRICE_PER_CUCUMBER
+total_cost = cucumbers * price_per_cucumber
 #显示：
-print(TOTAL_COST)
+print(total_cost)
