@@ -1,5 +1,5 @@
 # 青瓜数量：
-CUCUMBERS = 1
+cucumbers = 1
 #青瓜单价：
 PRICE_PER_CUCUMBER = 3.25
 #总价：
