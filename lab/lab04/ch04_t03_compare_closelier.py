@@ -16,4 +16,3 @@ bool_four = None
 # 100 != 10**2
 bool_five = None
 
-print(bool_one, bool_two, bool_three, bool_four, bool_five)
