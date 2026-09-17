@@ -1,2 +1,2 @@
-parrt=
+parrt='Norwegian Blue'
 print
