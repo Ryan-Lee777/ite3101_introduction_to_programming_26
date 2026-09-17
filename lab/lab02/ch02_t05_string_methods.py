@@ -1,2 +1,2 @@
-parrt='Norwegian Blue'
+parrot='Norwegian Blue'
 print
