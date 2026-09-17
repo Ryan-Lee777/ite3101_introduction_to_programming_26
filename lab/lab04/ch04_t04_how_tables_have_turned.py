@@ -14,3 +14,5 @@ bool_four = 4>=9
 
 # Make me true!
 bool_five = 9>=5
+
+print(bool_one, bool_two, bool_three, bool_four, bool_five)
