@@ -2,3 +2,4 @@
 
 my_string = abc
 print(len(my_string))
+print
