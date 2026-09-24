@@ -10,7 +10,7 @@ bool_two = 2 > 1 or not 1 + 1 == 4 and 10 % 3
 bool_three = 2 < 1 and 1 + 1 == 4 or not true
 
 # Make me true!
-bool_four = (1*2>2 or 47%5)
+bool_four = (1*2>2 or 47%5) 
 
 # Make me true!
 bool_five = None
