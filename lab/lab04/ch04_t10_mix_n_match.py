@@ -13,4 +13,4 @@ bool_three = 2 < 1 and 1 + 1 == 4 or not true
 bool_four = not ((1 * 2 > 2 or 47 % 5 ) and 4 == 2)
 
 # Make me true!
-bool_five = 3*2>
+bool_five = 3*2>2 or 
