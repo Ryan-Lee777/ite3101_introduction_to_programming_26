@@ -3,9 +3,9 @@ answer = "'Tis but a scratch!"
 
 def black_knight() -> bool:
     if answer == "'Tis but a scratch!":
-        return True
-    else:
         return False
+    else:
+        return True
 
 
 def french_soldier() -> bool:
