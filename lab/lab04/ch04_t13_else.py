@@ -3,7 +3,7 @@ answer = "'Tis but a scratch!"
 
 def black_knight() -> bool:
     if answer == "'Tis but a scratch!":
-        return False
+        return True
     else:
         return 
 
