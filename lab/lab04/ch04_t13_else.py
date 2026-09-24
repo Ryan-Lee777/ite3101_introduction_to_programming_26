@@ -15,4 +15,4 @@ def french_soldier() -> bool:
         return 'False'
 
 print(black_knight())
-print(using_control_again())    
+print(french_soldier())    
