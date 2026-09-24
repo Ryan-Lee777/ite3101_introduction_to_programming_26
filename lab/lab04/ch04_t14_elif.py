@@ -3,7 +3,7 @@ def greater_less_equal_5(answer: int) -> int:
         return 'A'
     elif answer>=80:
         return 'B'
-            elif answer>=80:
+    elif answer>=80:
         return 'B'
     else:
         return 0
