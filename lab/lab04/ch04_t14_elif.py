@@ -6,9 +6,9 @@ def greater_less_equal_5(answer: int) -> int:
     elif answer>=70:
         return 'C'
     elif answer>=65:
-            return 'B'
+            return 'D'
     else:
-        return 0
+        return 'F'
 
 
 print(greater_less_equal_5(4))
