@@ -13,3 +13,4 @@ def french_soldier() -> bool:
         return True
     else:
         return False
+    
