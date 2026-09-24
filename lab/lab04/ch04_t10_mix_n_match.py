@@ -14,3 +14,5 @@ bool_four = not ((1 * 2 > 2 or 47 % 5 ) and 4 == 2)
 
 # Make me true!
 bool_five = 3 * 2 > 2 or not 1 < 2
+
+print(bool_one, bool_two, bool_three, bool_four, bool_five)
