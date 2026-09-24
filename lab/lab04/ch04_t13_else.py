@@ -13,6 +13,4 @@ def french_soldier() -> bool:
         return 'True'
     else:
         return 'False'
-
-print(black_knight())
-print(french_soldier())    
+ 
