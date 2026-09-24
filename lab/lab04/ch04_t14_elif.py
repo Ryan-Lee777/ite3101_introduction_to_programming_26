@@ -1,8 +1,8 @@
 def greater_less_equal_5(answer: int) -> int:
     if answer>90:
-        return 1
-    elif answer<5:
-        return -1
+        return 'A'
+    elif answer>=80:
+        return 'B'
     else:
         return 0
 
