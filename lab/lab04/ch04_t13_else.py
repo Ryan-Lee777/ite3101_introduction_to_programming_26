@@ -13,4 +13,6 @@ def french_soldier() -> bool:
         return 'True'
     else:
         return 'False'
-    
+
+print(using_control_once())
+print(using_control_again())    
