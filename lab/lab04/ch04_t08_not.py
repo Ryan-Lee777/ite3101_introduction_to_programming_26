@@ -7,3 +7,5 @@ bool_three = not 10 % 3 <= 10 % 2
 bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
 
 bool_five = not not False
+
+print(bool_one, bool_two, bool_three, bool_four, bool_five)
