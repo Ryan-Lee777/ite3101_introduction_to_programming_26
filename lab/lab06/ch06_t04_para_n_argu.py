@@ -1,8 +1,6 @@
-def power(n:float) -> float:  # Add your parameters here!
-    '''Returns the power of a number.'''
-    result = n ** 4
-    print("%d result is %d." % (n, result))
-    return result
+def power():  # Add your parameters here!
+    result = base ** exponent
+    print("%d to the power of %d is %d." % (base, exponent, result))
 
 
-power(37)  # Add your arguments here!
+power()  # Add your arguments here!
