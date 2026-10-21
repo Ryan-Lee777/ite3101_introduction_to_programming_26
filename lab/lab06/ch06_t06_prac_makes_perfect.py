@@ -1,3 +1,2 @@
-def cube(n:int):
+def cube(number:int):
     cube=n^3
-    
