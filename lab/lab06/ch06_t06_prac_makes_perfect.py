@@ -1,2 +1,2 @@
 def cube(n:int):
-    cube=n
+    cube=n^3
