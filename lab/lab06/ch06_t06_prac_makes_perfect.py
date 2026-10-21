@@ -3,4 +3,3 @@ def cube(number: int) -> int:
 
 def by_three(number:int)_>int:
     if number
-    return number
