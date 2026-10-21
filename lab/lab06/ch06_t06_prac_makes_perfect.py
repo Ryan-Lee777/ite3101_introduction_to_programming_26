@@ -1,1 +1,2 @@
-def cube(n:)
+def cube(n:int):
+    
