@@ -1,1 +1,1 @@
-def distance_from_zero(a:Any)
+def distance_from_zero(a:Any) -> Any
