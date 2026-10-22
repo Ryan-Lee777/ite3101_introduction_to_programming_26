@@ -1,1 +1,3 @@
-IMP
+import math
+
+print()
