@@ -1,5 +1,5 @@
 # Set minimum to the min value of any set of numbers on line 3!
 
-minimum = min(10, 11, 12.1)
+minimum = min(10, 11, -11.1)
 
 print(minimum)
