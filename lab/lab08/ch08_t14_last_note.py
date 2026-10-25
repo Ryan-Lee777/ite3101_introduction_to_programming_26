@@ -13,4 +13,4 @@ inventory['pouch'].sort()
 
 # Your code here
 #Adding a key 'pocket' and assigning a list to it
-inventory['poc']
+inventory['pocket']
