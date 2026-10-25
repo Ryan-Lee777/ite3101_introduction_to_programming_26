@@ -1,2 +1,2 @@
-def plane_ride_cost(city: int) -> int:
+def plane_ride_cost(city: str) -> str:
     return 140 * nights
