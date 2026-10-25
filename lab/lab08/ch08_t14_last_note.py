@@ -18,8 +18,8 @@ inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 # Sorting the list found under the key 'backpack'
 inventory['backpack'].sort()
 
-#remove('dagger') from the list of items stored under the 'backpack' key
-inventory['backpack'].remove()
+# remove('dagger') from the list of items stored under the 'backpack' key
+inventory['backpack'].remove('dagger')
 
 # Add 50 to the number stored under the 'gold' key
 inventory['gold'] += 50
