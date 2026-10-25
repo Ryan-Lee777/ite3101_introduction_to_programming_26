@@ -19,3 +19,4 @@ inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 inventory['backpack'].sort()
 
 #Add 50 to the number stored under the 'gold' key
+inventory['gold'] += 50
