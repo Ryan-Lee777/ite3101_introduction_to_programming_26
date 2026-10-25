@@ -18,4 +18,5 @@ def rental_car_cost(days:int)->int:
     if days >= 7:
         return 0.5*cost
     elif days >=3:
-        return 
+        return 0.8*cost
+    
