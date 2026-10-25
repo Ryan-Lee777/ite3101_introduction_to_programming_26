@@ -1,1 +1,2 @@
-def hotel_cost(nigaht)
+def hotel_cost(nigaht) -> int:
+    
