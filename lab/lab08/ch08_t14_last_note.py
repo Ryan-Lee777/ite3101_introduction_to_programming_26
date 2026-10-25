@@ -15,4 +15,4 @@ inventory['pouch'].sort()
 #Adding a key 'pocket' and assigning a list to it
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 
-# Sorting the list found under the key 'pouch'
+# Sorting the list found under the key 'backpack'
