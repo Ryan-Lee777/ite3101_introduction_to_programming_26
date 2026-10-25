@@ -12,11 +12,11 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
-#Adding a key 'pocket' and assigning a list to it
+# Adding a key 'pocket' and assigning a list to it
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 
 # Sorting the list found under the key 'backpack'
 inventory['backpack'].sort()
 
-#Add 50 to the number stored under the 'gold' key
+# Add 50 to the number stored under the 'gold' key
 inventory['gold'] += 50
