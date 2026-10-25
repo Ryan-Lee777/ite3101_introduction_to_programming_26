@@ -12,4 +12,4 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
-#Add a key 'pocket' and assigning a list to it
+#Adding a key 'pocket' and assigning a list to it
