@@ -13,5 +13,4 @@ inventory['pouch'].sort()
 
 # Your code here
 #Add a key to inventory called 'pocket'
-
 Set the value of 'pocket' to be a list consisting of the strings 'seashell', 'strange berry',
