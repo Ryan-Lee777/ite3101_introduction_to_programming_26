@@ -1,7 +1,8 @@
 # Write your function below!
-from typ
+from typing import List
 
-def fizz_count(words: list) -> int:
+
+def fizz_count(words: List[str]) -> int:
     count = 0
     for word in words:
         if word == "fizz":
