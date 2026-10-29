@@ -1,2 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for
+for name in names:
+    print(name)
