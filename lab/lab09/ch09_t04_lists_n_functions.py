@@ -1,3 +1,4 @@
 # Write your function below!
 def fizz_count(x:str)->str:
-    count
+    count = 0
+    for
