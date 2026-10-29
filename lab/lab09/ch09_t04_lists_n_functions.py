@@ -4,4 +4,5 @@ def fizz_count(x:str)->str:
     for item in x:
         if item =="fizz":
             count += 1
-    return 
+    return count
+
