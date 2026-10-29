@@ -1,10 +1,7 @@
 # Write your function below!
-def fizz_count(x:str)->str:
+def fizz_count(words: list) -> int:
     count = 0
     for item in x:
-        if item =="fizz":
+        if item == "fizz":
             count += 1
     return count
-
-x =["fizz","cat","fizz"]
-c
