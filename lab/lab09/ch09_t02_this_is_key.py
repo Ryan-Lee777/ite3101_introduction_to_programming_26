@@ -8,4 +8,3 @@ webster = {
 # Add your code below!
 for abc in webster:
     print(webster[abc])
-    
