@@ -6,4 +6,6 @@ webster = {
 }
 
 # Add your code below!
-for abc
+for abc in webster:
+    print(webster[abc])
+    
