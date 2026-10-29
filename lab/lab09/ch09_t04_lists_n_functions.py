@@ -6,4 +6,5 @@ def fizz_count(x:str)->str:
             count += 1
     return count
 
-x
+x =["fizz","cat","fizz"]
+c
