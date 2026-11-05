@@ -5,8 +5,8 @@ lloyd ={
     "tests":[]
 }
 
-lloyd ={
-    "name":"Lloyd",
+alice ={
+    "name":"Alice",
     "homework":[],
     "quizzes":[],
     "tests":[]
