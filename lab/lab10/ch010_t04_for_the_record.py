@@ -22,5 +22,5 @@ for student in students:
     print(students[name])
     print(students[homework])
     print(students[quizzes])
-    print(students[name])
+    print(students[tests])
     
