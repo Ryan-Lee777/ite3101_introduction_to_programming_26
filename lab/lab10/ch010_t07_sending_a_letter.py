@@ -42,4 +42,4 @@ def get_average(student: dict) -> float:
 
 # Add your function below!
 
-def 
+def get_letter_grade()
