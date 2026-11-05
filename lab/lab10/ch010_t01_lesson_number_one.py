@@ -1,3 +1,3 @@
-Lloyd ={
+lloyd ={
     "name":"Lloyd"
 }
