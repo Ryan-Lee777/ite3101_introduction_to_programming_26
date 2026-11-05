@@ -54,4 +54,4 @@ def get_letter_grade(score:float)-> str:
     else:
         return "F"
 
-print(get_letter_grade(get_average))
+print(get_letter_grade(get_average(lloyd)))
