@@ -4,4 +4,4 @@ def list_extender(lst:list)->list:
     lst.append(10)
     return lst
 
-# print(list_extender(n))
+print(list_extender(n))
