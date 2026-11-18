@@ -6,4 +6,4 @@ def print_list(x):
     for i in range(0, len(n)):
     print(x[i])
 
-print(prin)
+print(print_list(n))
