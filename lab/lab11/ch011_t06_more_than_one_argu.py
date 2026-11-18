@@ -4,7 +4,7 @@ y = 13
 
 
 def add_funtion(x: int, y: int) -> int:
-    return x+y
+    return x + y 
 
 # print(add_function(m, n))
-print(add_funtion(x,y))
+print(add_funtion(m,n))
