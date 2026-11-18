@@ -5,5 +5,4 @@ def print_list(x: list) -> int:
     for i in range(0, len(n)):
         return x[i]
 
-
 print(print_list(n))
