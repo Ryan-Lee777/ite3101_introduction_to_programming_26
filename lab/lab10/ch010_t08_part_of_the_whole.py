@@ -54,7 +54,6 @@ class_list = [lloyd, alice, tyler]
 
 def get_class_average(class_list: List[dict]) -> float:
     results = []
-    student_averages = []
     for student in class_list:
-        results.append(get_averages(student))
+        results.append(get_average(student))
     return average(results)
