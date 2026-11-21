@@ -8,4 +8,5 @@ def flatten(lists:List[int]) -> List[int]:
     for i in rang(len(lists)):
         
 
+
 # print(flatten(n))
