@@ -32,3 +32,4 @@ guess_col = int(input("Guess Col: "))
 # Write your code below!
 
 
+if 
