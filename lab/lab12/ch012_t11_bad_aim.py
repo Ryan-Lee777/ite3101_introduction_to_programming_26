@@ -39,4 +39,5 @@ else:
     print_board(board)
 
 if guess_row not in rang(5) or guess_col not in range(5):
-    print()
+    print("Oops, that's not even in the ocean.")
+    
