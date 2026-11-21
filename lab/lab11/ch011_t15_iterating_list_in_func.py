@@ -9,3 +9,6 @@ def total(numbers: List[int]) -> List[int]:
     for i in range(len(numbers)):
         result += numbers[0]
     return result
+
+
+print(total(n))
