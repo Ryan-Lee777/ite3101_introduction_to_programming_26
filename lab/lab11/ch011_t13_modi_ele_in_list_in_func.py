@@ -5,12 +5,12 @@ n = [3, 5, 7]
 
 
 for i in range(0, len(n)):
-    n[0] = n[0] * 2
+    n[i] = n[i] * 2
 
 
 def double_list(x: List[int]) -> List[int]:
     for i in range(0, len(x)):
-        x[0] = x[0] * 2
+        x[i] = x[i] * 2
     return x
 
 
