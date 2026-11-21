@@ -5,7 +5,7 @@ n = [3, 5, 7]
 
 
 def double_list(x: List) -> List:
-    y=[]
+    y = []
     for i in range(0, len(x)):
         y[i] = x[i] * 2
         y.append(y[i])
