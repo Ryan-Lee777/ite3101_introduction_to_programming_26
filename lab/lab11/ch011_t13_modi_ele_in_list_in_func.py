@@ -8,7 +8,7 @@ def double_list(x: List) -> List:
     y = []
     for i in range(0, len(x)):
         y[i] = 
-        y.append(y[i])
+        y.append(x[i] * 2)
     return y
 
 
