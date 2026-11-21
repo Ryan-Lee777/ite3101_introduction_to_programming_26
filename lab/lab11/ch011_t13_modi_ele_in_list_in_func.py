@@ -9,10 +9,9 @@ for i in range(0, len(n)):
 
 
 def double_list(x: List[int]) -> List[int]:
-    y = []
     for i in range(0, len(x)):
-        y.append(x[i] * 2)
-    return y
+        n[0] = n[0] * 2
+    return x
 
 
 print(double_list(n))
