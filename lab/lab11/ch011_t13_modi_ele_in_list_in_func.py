@@ -9,7 +9,7 @@ def double_list(x: List) -> List:
     for i in range(0, len(x)):
         
         y[i] = x[i] * 2
-        
+        y.append(y[i])
     return x
 
 
