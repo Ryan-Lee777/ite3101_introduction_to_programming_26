@@ -1,11 +1,11 @@
 from typing import List
 
 
-def my_function(x: int) -> List[int]:
+def my_function(x: range) -> List[int]:
     result = []
     for i in range(0, len(x)):
         result.append(x[i])
     return result
 
 # print(my_function(____))  # Add your range between the parentheses!
-print(my_function(3))
+print(my_function(0,3))
