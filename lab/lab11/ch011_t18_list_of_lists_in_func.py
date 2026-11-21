@@ -4,9 +4,10 @@ from typing import List
 n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
 # Add your function here
 def flatten(lists:List[int]) -> List[int]:
-    result = []
-    for i in rang(len(lists)):
-        
+    results = []
+    for numbers in rang(len(lists)):
+        results.append(lists[numbers])
+    return results
 
 
-# print(flatten(n))
+print(flatten(n))
