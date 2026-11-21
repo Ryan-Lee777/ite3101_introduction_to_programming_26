@@ -27,7 +27,7 @@ print(ship_row)
 print(ship_col)
 
 # Write your code below!
-for turn in rang(4):
+for turn in range(4):
     print(turn)
     turn += 1
     guess_row = int(input("Guess Row: "))
