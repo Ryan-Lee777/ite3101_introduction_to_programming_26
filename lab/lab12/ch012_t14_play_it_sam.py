@@ -27,7 +27,8 @@ print(ship_row)
 print(ship_col)
 
 # Write your code below!
-for turn in rang(4)
+for turn in rang(4):
+    print()
     guess_row = int(input("Guess Row: "))
     guess_col = int(input("Guess Col: "))
     if guess_row == ship_row and guess_col == ship_col:
