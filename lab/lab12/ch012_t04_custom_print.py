@@ -4,4 +4,4 @@ for i in range(5):
 
 def print_board(board_in):
     for n range(len(board_in)):
-        print()
+        print(board_in[n])
