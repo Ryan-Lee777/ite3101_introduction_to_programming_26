@@ -32,4 +32,4 @@ guess_col = int(input("Guess Col: "))
 # Write your code below!
 
 
-if 
+if guess_row == ship_row and 
