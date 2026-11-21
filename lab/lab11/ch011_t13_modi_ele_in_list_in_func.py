@@ -8,7 +8,7 @@ for i in range(0, len(n)):
     n[0] = n[0] * 2
 
 
-def double_list(x: List[int]) -> List:
+def double_list(x: List[int]) -> List[int]:
     y = []
     for i in range(0, len(x)):
         y.append(x[i] * 2)
