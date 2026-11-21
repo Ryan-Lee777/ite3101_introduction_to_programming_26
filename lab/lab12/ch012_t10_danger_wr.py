@@ -34,6 +34,6 @@ if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
 else:
     print("You missed my battleship!")
-    board[guess_row - 1] = "X"
+    board[guess_row - 1][guess_col - 1] = "X"
     board = "X"
     print(print_board(board))
