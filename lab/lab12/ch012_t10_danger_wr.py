@@ -36,4 +36,4 @@ else:
     print("You missed my battleship!")
     board[guess_row - 1] = "X"
     board[guess_col - 1] = "X"
-    print(print_b)
+    print(print_board(board_in: List[List[str]]))
