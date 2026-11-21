@@ -3,7 +3,8 @@ def double_list(x:List)->List:
     for i in range(0, len(x)):
         x[i] = x[i] * 2
     return x
-print
+print(double_list(n))
+
 # Don't forget to return your new list!
 
 # print(double_list(n))
