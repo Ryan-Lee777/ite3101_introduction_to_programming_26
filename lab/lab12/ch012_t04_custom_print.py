@@ -2,8 +2,10 @@ board = []
 for i in range(5):
     board.append(['O'] * 5)
 
+
 def print_board(board_in):
     for n in range(len(board_in)):
         print(board_in[n])
+
 
 print_board(board)
