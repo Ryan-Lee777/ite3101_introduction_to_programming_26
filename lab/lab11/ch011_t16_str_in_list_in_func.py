@@ -9,7 +9,7 @@ def join_strings(words: List[str]) -> str:
     result = ""
     for i in range(len(words)):
         result += words[i]
+    return result
 
 
-
-# print(join_strings(n))
+print(join_strings(n))
