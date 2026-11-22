@@ -1,12 +1,11 @@
 from typing import List
 
 
-def median(x: List):
+def median(x: List[]) -> float:
     new = sorted(x)
     if len(x) % 2 != 0:
-        n = len(x) // 2)
+        n = len(x) // 2
         return new[n]
     else:
-        m = int(len(x) / 2)
-        result = (new[m] + new[m-1]) / 2
-        return result
+        m = len(x) // 2
+        return (new[m] + new[m-1]) / 2.0
