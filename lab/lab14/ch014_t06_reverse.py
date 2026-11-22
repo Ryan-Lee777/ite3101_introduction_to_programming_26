@@ -4,3 +4,4 @@ def reverse(text:str)->str:
     while n >= 0:
         word += text[n]
         n -= 1
+    re
