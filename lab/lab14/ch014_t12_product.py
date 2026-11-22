@@ -1,1 +1,4 @@
-def product(x:List):
+from typing import List
+
+
+def product(x:List[int]):
