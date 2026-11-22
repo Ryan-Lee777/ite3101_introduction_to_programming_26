@@ -4,5 +4,5 @@ from typing import List
 def purify(x:List)->List:
     result = []
     for i in range(1,len(x)):
-        result.append(i)
+        result.append(x[i])
     return result
