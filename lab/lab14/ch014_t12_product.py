@@ -1,4 +1,5 @@
 from typing import List
 
 
-def product(x:List[int]):
+def product(x:List[int])->int:
+    
