@@ -1,1 +1,1 @@
-for factorial
+def factorial
