@@ -1,2 +1,3 @@
 def digit_sum(n: int) -> int:
-    for i in str(n)
+    for i in str(n):
+        
