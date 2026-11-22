@@ -1,5 +1,5 @@
 def factorial(x: int) -> int:
-    total = 0
+    total = 1
     for i in range(x):
         total = total * (int(i) + 1)
     return total
