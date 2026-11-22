@@ -1,4 +1,4 @@
 def anti_vowel(text:str) ->str:
     word = ""
     for i in text:
-        if i = 
+        if i != "A" and  
