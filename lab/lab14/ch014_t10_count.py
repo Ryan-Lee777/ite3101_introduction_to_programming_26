@@ -3,5 +3,7 @@ from typing import List
 
 def count(sequence:List,item:any)->int:
     result = 0
-    for i in 
+    for i in sequence:
+        if i == item:
+            
 
