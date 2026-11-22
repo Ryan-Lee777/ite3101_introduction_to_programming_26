@@ -1,2 +1,3 @@
-def is_prime(x):
-    for n in range(2,x - 1)
+def is_prime(x:int):
+    for n in range(2,x - 1):
+        if x % n
