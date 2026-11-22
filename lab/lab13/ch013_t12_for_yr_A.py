@@ -6,6 +6,3 @@ for char in phrase:
         print("X")
     else:
         print(char)
-
-# Don't delete this print statement!
-print()
