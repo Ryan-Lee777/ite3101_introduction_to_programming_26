@@ -2,4 +2,4 @@ hobbies = []
 
 # Add your code below!
 hoppy = input()
-hobbies.append
+hobbies.append(hoppy)
