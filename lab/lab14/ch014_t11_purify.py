@@ -1,1 +1,5 @@
-def purify(x:List)
+from typing import List
+
+
+def purify(x:List)->List:
+    
