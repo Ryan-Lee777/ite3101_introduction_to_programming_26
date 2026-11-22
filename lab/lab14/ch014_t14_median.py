@@ -2,7 +2,7 @@ from typing import List
 
 
 def median(x: List):
-    new = x.sorted()
+    new = sorted(x)
     if len(x) % 2 != 0:
         n = int(len(x) / 2)
         return new[n]
