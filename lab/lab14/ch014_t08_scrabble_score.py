@@ -9,4 +9,4 @@ def scrabble_score(word: str) -> int:
     result = 0
     for i in word:
         result += int(score[i.lower()])
-    ru
+    return result
