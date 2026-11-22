@@ -6,5 +6,5 @@ def count(sequence:List,item:any)->int:
     for i in sequence:
         if i == item:
             result += 1
-        
+    return result
 
