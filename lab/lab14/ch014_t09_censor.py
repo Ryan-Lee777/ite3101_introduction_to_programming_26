@@ -1,1 +1,2 @@
-def censor(text,word)
+def censor(text:str,word:str)->str:
+    
