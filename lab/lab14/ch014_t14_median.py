@@ -1,2 +1,2 @@
 def median(x:List):
-    if len(x) % 2 
+    if len(x) % 2 != 
