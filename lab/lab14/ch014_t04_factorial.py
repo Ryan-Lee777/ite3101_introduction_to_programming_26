@@ -3,3 +3,4 @@ def factorial(x: int) -> int:
     for i in range(x):
         total = total * (i + 1)
     return total
+factorial(4)
